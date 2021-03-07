@@ -1,0 +1,27 @@
+h1{
+    color : blue
+}
+.header{
+    color : red;
+    background-color: greenyellow;
+    display: flex;
+    justify-content: space-between;
+}
+.games{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;   
+}
+p{
+    color: red;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+h2{
+    color: cyan;
+}
